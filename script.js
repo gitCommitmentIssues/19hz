@@ -79,11 +79,3 @@ $("#twentyOne").click(function(){
 $("#allEvents").click(function(){
     sort()
 })
-
-
-
-
-
-
-
-
