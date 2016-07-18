@@ -3,6 +3,7 @@ Bay area event calendar.
 Fed through a csv and entirely front end.
 
 Current features:
+
 1. Search event by age restrictions
 
 Planned features:
